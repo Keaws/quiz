@@ -1,0 +1,34 @@
+.skip,
+.next {
+  width:60%;
+  margin-bottom:15px;
+  margin-top:15px;
+}
+
+a.letter {
+  border:1px solid black;
+  margin-right: 5px;
+  margin-bottom: 15px;
+}
+
+.answer-block {
+  min-height: 300px;
+  border: 1px solid black;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.green-border {
+  border: 3px solid #4caf50;
+}
+
+.red-border {
+  border: 3px solid #f44336;
+}
+
+i.material-icons {
+  vertical-align: bottom;
+}
