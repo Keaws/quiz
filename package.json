@@ -1,0 +1,23 @@
+{
+  "name": "quiz",
+  "version": "1.0.0",
+  "description": "quiz, trivia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keaws/quiz.git"
+  },
+  "keywords": [
+    "quiz",
+    "trivia"
+  ],
+  "author": "Keaws",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keaws/quiz/issues"
+  },
+  "homepage": "https://github.com/Keaws/quiz#readme"
+}
